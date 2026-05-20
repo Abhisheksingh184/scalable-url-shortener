@@ -8,6 +8,7 @@ public class ScalableUrlShortenerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ScalableUrlShortenerApplication.class, args);
+
 	}
 
 }
